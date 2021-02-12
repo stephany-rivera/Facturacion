@@ -1,0 +1,15 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾€¹úÿÿÿÿ8Õ²’¡ù.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(şñ¢ë8¬£Í¡ù.
+
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×ŒŒƒ8·å¡ù.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šæî8÷çƒ¡ù.
+L
+java:S5411"*Use the primitive boolean expression here.(èÔÀ§üÿÿÿÿ8¸ËÃ¡ù.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù­Ç¡ıÿÿÿÿ8¾¶†¡ù.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(š˜‘£8¾¶†¡ù.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âÆ­áüÿÿÿÿ8¾¶†¡ù.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÒËù8Õ²’¡ù.
+v
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÅ´‡8ôâæ¡ù.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¹ßİ=8¾¶†¡ù.
